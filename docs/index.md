@@ -1,6 +1,6 @@
 ---
 id: WelcomePage
-title: Welcome hi
+title: Welcome
 ---
 
 
