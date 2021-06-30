@@ -36,4 +36,3 @@ https://id.g-works.eu/v2/userData/?token=(token)
 
 ### Tutorial for:
 
-[PHP](https://google.com)
