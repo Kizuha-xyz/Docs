@@ -1,5 +1,5 @@
 ---
-id: WelcomePage
+id: aWelcomePage
 title: Welcome
 ---
 
