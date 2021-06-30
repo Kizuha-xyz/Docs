@@ -60,7 +60,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/w8Syn43',
+              href: 'https://discord.gg/xVu7dgjVsh',
             },
           ],
         }
