@@ -9,7 +9,7 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
-    title: 'Answers to the mst questions',
+    title: 'Answers to the most questions',
     imageUrl: 'img/undraw-faq.svg',
     description: (
       <>
