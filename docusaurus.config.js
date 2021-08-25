@@ -20,14 +20,6 @@ module.exports = {
     ],
   ],
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'UA-159552747-6',
-      anonymizeIP: true,
-    },
-    gtag: {
-      trackingID: 'UA-159552747-6',
-      anonymizeIP: true,
-    },
     navbar: {
       title: 'GWorks Docs',
       logo: {
