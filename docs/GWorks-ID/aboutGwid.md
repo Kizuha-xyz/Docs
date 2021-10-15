@@ -6,7 +6,7 @@ title: GWorks ID
 
 ### About GWorks-ID
 
-GWorks ID is a PHP based aut system for Websites and Apps. You can use it to login users to your Websites or Apps without save their information.
+GWorks ID is a PHP based auth system for Websites and Apps. You can use it to login users to your Websites or Apps without save their information.
 
 ### Default URI's
 
