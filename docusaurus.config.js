@@ -38,10 +38,6 @@ prism: {
           position: 'left',
         },
         {
-          type: 'localeDropdown',
-          position: 'right',
-        },
-        {
           href: 'https://g-works.eu',
           label: 'Website',
           position: 'right',
